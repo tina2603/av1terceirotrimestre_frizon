@@ -19,7 +19,7 @@ img{
     margin-left: 190px;
 }
 .HARRY_POTTER{
-    background-color: blue;
+    background-color: rgba(245, 245, 250, 0);
 }
 .lista_cabecalho{
     display: flex;
